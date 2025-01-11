@@ -1,11 +1,11 @@
 stages {
          {
-          {collect}
+          {re-collect}
           } 
            }
 stages {
         { 
-          {validation}
+          {re-validation}
            }
              }
 stages {
