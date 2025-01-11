@@ -10,6 +10,9 @@ stages {
              }
 stages {
         {
-         {deploy}
+         {testing}
           } 
             }
+stages{
+       {deploy}
+      
