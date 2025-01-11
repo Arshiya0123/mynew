@@ -1,0 +1,15 @@
+stages {
+         {
+          {collect}
+          } 
+           }
+stages {
+        { 
+          {validation}
+           }
+             }
+stages {
+        {
+         {deploy}
+          } 
+            }
